@@ -18,7 +18,6 @@
 
 ---
 
-## 🛠️ Languages & Tools
 
 ## 🛠️ Languages & Tools
 
@@ -34,12 +33,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umxrrs&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umxrrs&layout=compact&theme=tokyonight" />
-</p>
+## 🔥 My Stats :
+
+<img align="left" alt="umxrrs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=umxrrs&count_private=true&show_icons=true&theme=radical" />
+
+<img align="" alt="umxrrs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umxrrs&layout=compact&theme=vision-friendly-dark" />
+<br />
 
 
 
