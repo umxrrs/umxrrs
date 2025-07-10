@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/computer-code-decrypting-hacking-decrypt-gif-12787847?utm_source=share-button&utm_medium=Social&utm_content=pinterest" width="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRhOW1zNHd2dDI1MDZwYm80MTZmcjJqcnA5bTEyaWU5cm50YnkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200" />
 </p>
 
 ---
