@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Umar+(umxrrs)!;Python+%7C+Node.js+%7C+Go+%7C+Lua+Dev;Lover+of+clean+code+and+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Umar+(umxrrs)!;Python+%7C+Node.js+%7C+Go+%7C+Lua+Dev" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,8 +45,7 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy making discord tools
-> CLI > GUI most days 😎
+> I enjoy making discord tools 😎
 
 ---
 
