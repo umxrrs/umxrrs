@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Umar+(umxrrs)!" alt="Intro Typing Text" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Python+%7C+Node.js+%7C+Go+%7C+Lua+%7C+Sql+%7C+HTML+%7C+CSS+Dev" alt="Tech Typing Text" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Python+%7C+Node.js+%7C+Go+%7C+Lua+%7C+Sql+%7C+HTML+%7C+CSS+Dev" alt="Tech Typing Text" />
 </p>
 
 <p align="center">
