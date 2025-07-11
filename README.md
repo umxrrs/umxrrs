@@ -12,6 +12,7 @@
 ## 🙋‍♂️ About Me
 
 - 🧠 I'm passionate about **Python**, **Node.js**, and **Go**
+- 💻 Passionate Discord Self-Bot Dev
 - 🛠️ I work on backend systems, automation, and sometimes dabble in web design
 - 🔍 Currently exploring: **Go for API development** and **Lua for embedded scripting**
 - 📫 Contact me On Insta: [umxrrs](https://www.instagram.com/umxrrs_/)
