@@ -48,7 +48,7 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy making discord tools 😎
+> I enjoy learning new languages
 
 ---
 
