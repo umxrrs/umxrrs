@@ -39,7 +39,7 @@
 
 <img align="left" alt="umxrrs GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=umxrrs&count_private=true&show_icons=true&theme=radical" />
 
-<img align="" alt="umxrrs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umxrrs&layout=compact&theme=vision-friendly-dark"/>
+<img align="" alt="umxrrs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umxrrs&theme=vision-friendly-dark"/>
 <br />
 
 
