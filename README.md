@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Golang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="40" title="Lua" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/javascript-original.svg" width="40" title="Javascript" />
+  
 </p>
 
 ---
